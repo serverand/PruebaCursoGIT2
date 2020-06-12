@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>INDEX</title>
+        <title>INDEX - GIT </title>
     </head>
     <body>
         
