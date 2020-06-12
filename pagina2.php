@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>PAGINA 2</title>
+        <title>PAGINA 2 - amb modificacio - </title>
     </head>
     <body>
         
