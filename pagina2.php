@@ -3,6 +3,6 @@
         <title>PAGINA 2 - amb modificacio - </title>
     </head>
     <body>
-        HOla Munfo
+        Hola Mundo 2
     </body>
 </html>
